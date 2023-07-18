@@ -1,0 +1,175 @@
+body{
+  font-family: 'Montserrat-light', sans-serif;
+}
+h3{
+  font-family: 'Montserrat' ;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Montserrat' ;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  margin-top: 18%;
+  
+}
+.heading-p{
+  color: aliceblue;
+  font-size: 18px;
+}
+p{
+  color: gray;
+  font-weight: normal;
+}
+#title{
+  background-color: #F24A72;
+  color: whitesmoke;
+}
+
+#container1{
+  padding: 3% 20%;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4.5  rem;
+  font-weight: bold;
+}
+.download-button {
+  margin: 5% 3% 5% 0;
+  
+}
+.dp-img {
+  width: 60%;
+  margin-left: 100px;
+  margin-top: 110px;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: whitesmoke;
+}
+.feature-box{
+  text-align: center;
+  padding: 4%;
+}
+
+
+.icon:hover{
+  color: #F24A72;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #F24A72;
+  color: whitesmoke;
+}
+.temp2{
+  width: 20%;
+  margin: 20px;
+  border-radius: 100%;
+}
+.social-media{
+  text-align: center;
+  width: 2%;
+  margin: 10px 1px;
+ 
+
+}
+.logo-img{
+  width: 20%;
+  margin: 0 10px;
+}
+#genres {
+  padding:100px;
+  text-align: center;
+}
+.genre-col{
+  padding: 3% 2%;
+}
+#cta {
+  background-color: #F24A72;
+  text-align: center;
+  color: whitesmoke;
+  padding: 7% 15%;
+  
+}
+.cta-heading{
+  font-family: 'Montserrat' ;
+  font-weight: normal;
+  font-size: 2.5rem   ;
+  
+}
+#footer{
+  text-align: center;
+  padding: 7% 10%;
+  margin: auto;
+}
+
+@media (max-width:1028px) {
+
+  .dp-img {
+  width: 80%;
+  margin: auto;
+  padding-top: 20px;
+
+  }
+  #title{
+    background-color: #F24A72;
+    color: whitesmoke;
+      text-align: center;
+  }
+  h1{
+      font-family: 'Montserrat', sans-serif;
+      font-size: 2.5rem;
+      line-height: 1.5;
+      margin-top: 18%;
+      
+  }
+  .navbar-brand {
+      font-family: 'Ubuntu', sans-serif;
+      font-size: 5.5  rem;
+      font-weight: bold;
+  }
+  #features {
+      padding: 7% 15%;
+      background-color: whitesmoke;
+      
+  }
+  .feature-box{
+      text-align: center;
+      padding: 4%;
+  }
+
+  h2{
+      font-family: 'Montserrat' ;
+      font-weight: bold;
+      line-height: 1.5;
+  }
+
+  .logo-img{
+  margin: 0 10px;
+  }
+  .price-col{
+      padding: 3% 2%;
+      width: 70% 70%;
+      margin: auto;
+  }
+  #footer{
+      text-align: center;
+      padding: 7% 10%;
+      margin: auto;
+      font-size: 12px;
+  }
+  .social-media{
+      text-align: center;
+      margin: 10px 3px;
+  }
+  
+ 
+}  
